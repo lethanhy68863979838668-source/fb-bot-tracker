@@ -1,4 +1,4 @@
-﻿import os
+import os
 from threading import Thread
 import time
 from flask import Flask
@@ -38,4 +38,4 @@ if __name__ == "__main__":
   web_thread.start()
 
   # Chạy vòng lặp bot chính
-  run_bot()
+  run_bot()﻿
